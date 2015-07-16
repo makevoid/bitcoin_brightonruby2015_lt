@@ -23,6 +23,9 @@ download a keygeneration
 - blockchain as history (proof of existance)
 
 
+Private Blockchain? it's called Database! 
+Use MYSQL ! :p 
+
 
 ### FLAME / TROLL
 
