@@ -11,7 +11,9 @@ private key - stored yourself
 transaction signing
 transaction propagation
 
-ledger - ~50GB in size - in every bitcoin client software (client is a bad word, all clients are in fact peers, so servers)
+ledger - ~50GB in size - in every bitcoin client software (client is a bad word, all clients are in fact peers, so servers - equal)
+
+
 
 download a keygeneration
 
