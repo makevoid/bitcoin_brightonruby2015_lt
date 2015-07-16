@@ -2,9 +2,10 @@
 Lighting Talk (5 min presentation) about what Bitcoin is and why you (Ruby Devs) should careaaa
 
 
-pubkey/privkey 
-no account to register (meaning you can identify users with message signing, rather than login / pass, like pgp - see keybase.io)
-blockchau
+- pubkey/privkey concept
+- P2P network
+- no account to register (meaning you can identify users with message signing, rather than login / pass, like pgp - see keybase.io)
+- blockchain
 
 
 
