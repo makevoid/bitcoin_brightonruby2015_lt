@@ -1,7 +1,7 @@
 # bitcoin_brightonruby2015_lt
 Lighting Talk (5 min presentation) about what Bitcoin is and why you (Ruby Devs) should careaaa
 
-notes (TODO: slides)
+notes (TODO: slides - keynote maybe)
 
 > Bitcoin is next-gen money (only one aspect of bitcoin is money but hey!)
 
@@ -16,7 +16,7 @@ ledger - ~50GB in size - in every bitcoin client software (client is a bad word,
 [movie in loop japanese ghera translations / similar]
 
 
-download a keygeneration
+download a keygeneration tool
 
 - P2P network
 - no account to register (meaning you can identify users with message signing, rather than login / pass, like pgp - see keybase.io)
