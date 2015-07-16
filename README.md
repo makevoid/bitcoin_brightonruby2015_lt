@@ -7,6 +7,12 @@ notes (TODO: slides)
 
 - pubkey/privkey concept
 
+private key - stored yourself
+transaction signing
+transaction propagation
+
+ledger - ~50GB in size - in every bitcoin client software (client is a bad word, all clients are in fact peers, so servers)
+
 download a keygeneration
 
 - P2P network
