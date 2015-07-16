@@ -5,7 +5,8 @@ Lighting Talk (5 min presentation) about what Bitcoin is and why you (Ruby Devs)
 - pubkey/privkey concept
 - P2P network
 - no account to register (meaning you can identify users with message signing, rather than login / pass, like pgp - see keybase.io)
-- blockchain
+- blockchain as a DB
+- blockchain as history (proof of existance)
 
 
 
