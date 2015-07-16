@@ -3,7 +3,7 @@ Lighting Talk (5 min presentation) about what Bitcoin is and why you (Ruby Devs)
 
 notes (TODO: slides)
 
-> Bitcoin is next-gen money (only one aspect of bitcoin is that)
+> Bitcoin is next-gen money (only one aspect of bitcoin is money but hey!)
 
 - pubkey/privkey concept
 
