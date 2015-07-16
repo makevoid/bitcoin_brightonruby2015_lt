@@ -15,8 +15,14 @@ ledger - ~50GB in size - in every bitcoin client software (client is a bad word,
 
 [movie in loop japanese ghera translations / similar]
 
+-----
 
-download a keygeneration tool
+keychains
+keychains (they're called wallets but in reality they don't hold bitcoins, they hold only private keys)
+
+
+
+download a bitcoin keygen software
 
 - P2P network
 - no account to register (meaning you can identify users with message signing, rather than login / pass, like pgp - see keybase.io)
