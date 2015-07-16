@@ -13,6 +13,7 @@ transaction propagation
 
 ledger - ~50GB in size - in every bitcoin client software (client is a bad word, all clients are in fact peers, so servers - equal)
 
+[movie in loop japanese ghera translations / similar]
 
 
 download a keygeneration
