@@ -19,6 +19,9 @@ ledger - ~50GB in size - in every bitcoin client software (client is a bad word,
 
 keychains
 keychains (they're called wallets but in reality they don't hold bitcoins, they hold only private keys)
+bitcoin key generation
+blockchain storage [separated] to verify
+
 
 
 
