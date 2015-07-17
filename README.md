@@ -49,7 +49,7 @@ Use MYSQL ! :p
 
 ### FLAME / TROLL
 
-notes
+notes:
 - twitter links (garybernardth)
 - steveklabnik
 
