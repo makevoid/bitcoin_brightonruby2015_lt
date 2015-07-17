@@ -15,6 +15,11 @@ ledger - ~50GB in size - in every bitcoin client software (client is a bad word,
 
 [movie in loop japanese ghera translations / similar]
 
+
+-----
+it's already happening
+https://twitter.com/ErolKazan/status/621835432238706688
+
 -----
 
 keychains
