@@ -41,6 +41,11 @@ download a bitcoin keygen software
 Private Blockchain? it's called Database! 
 Use MYSQL ! :p 
 
+------
+
+
+- btc book
+- see paper notes
 
 ### FLAME / TROLL
 
